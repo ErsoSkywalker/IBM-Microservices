@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         /*
         *
-        * Checar la herencia múltiple, herencia hibrida y herencia única como tarea.
+        * Checar la herencia única, multi nivel, múltiple, jerárquica e híbrida
         *
         * */
 
