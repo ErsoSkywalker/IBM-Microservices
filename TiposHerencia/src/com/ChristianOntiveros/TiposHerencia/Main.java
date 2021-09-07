@@ -11,9 +11,9 @@ public class Main {
     public static void main(String[] args) {
 
         Cotorro chocotorro = new Cotorro();
-        
+        chocotorro.volar();
 
-        Animal gato = new Gato();
+        Ente gato = new Gato();
         gato.existir();
 
     }
