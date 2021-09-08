@@ -8,4 +8,9 @@ public class Cotorro extends FlyingAnimal implements Animal {
     public void comer() {
         System.out.println("Soy un cotorro y yo estoy comiendo galletitas.");
     }
+
+    @Override
+    public String toString() {
+        return "Cotorro{}";
+    }
 }

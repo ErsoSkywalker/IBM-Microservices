@@ -13,8 +13,10 @@ public class Main {
         Cotorro chocotorro = new Cotorro();
         chocotorro.volar();
 
-        Ente gato = new Gato();
+        Gato gato = new Gato();
         gato.existir();
+
+        gato.holaMundo(chocotorro);
 
     }
 }
